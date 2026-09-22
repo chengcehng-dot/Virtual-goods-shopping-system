@@ -1,0 +1,11 @@
+{
+  "name": "virtual-goods-shopping-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A dependency-free local simulation for a virtual goods shopping flow.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node scripts/demo.js"
+  }
+}
